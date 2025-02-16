@@ -1,0 +1,9 @@
+G:\9 klas\informatika\KamakNojicaHartiq\bin\Debug\KamakNojicaHartiq.exe.config
+G:\9 klas\informatika\KamakNojicaHartiq\bin\Debug\KamakNojicaHartiq.exe
+G:\9 klas\informatika\KamakNojicaHartiq\bin\Debug\KamakNojicaHartiq.pdb
+G:\9 klas\informatika\KamakNojicaHartiq\obj\Debug\KamakNojicaHartiq.csprojAssemblyReference.cache
+G:\9 klas\informatika\KamakNojicaHartiq\obj\Debug\KamakNojicaHartiq.Form1.resources
+G:\9 klas\informatika\KamakNojicaHartiq\obj\Debug\KamakNojicaHartiq.Properties.Resources.resources
+G:\9 klas\informatika\KamakNojicaHartiq\obj\Debug\KamakNojicaHartiq.csproj.GenerateResource.cache
+G:\9 klas\informatika\KamakNojicaHartiq\obj\Debug\KamakNojicaHartiq.exe
+G:\9 klas\informatika\KamakNojicaHartiq\obj\Debug\KamakNojicaHartiq.pdb
